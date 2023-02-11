@@ -1,0 +1,30 @@
+nav{
+    margin: -8px;
+    background: #000;
+    color: white;
+    /* height: 30px; */
+   padding: 10px 10px 10px 10px;
+}
+
+.btn{
+    background: #000;
+    color: white;
+    width: 100px;
+    border-radius: 10px;
+}
+img{
+    height: 200px;
+}
+
+.headTag{
+    background: rgb(208, 240, 165);
+    border-left: 10px solid rgb(118, 191, 8);
+    /* height: 40px; */
+    padding: 5px 5px 5px 10px;
+}
+
+body{
+    margin: auto;
+    max-width: 800px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
